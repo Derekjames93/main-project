@@ -1,7 +1,7 @@
 //Write a function for each rapper
 const westCoast = {
     
-        name: 'Dom Kennedy',
+        'name': 'Dom Kennedy',
         'albums': [
             {
                 'name': 'From Westside with Love',
@@ -728,7 +728,10 @@ const westCoast = {
     }
         
 
-console.log(westCoast.albums.tracks)    
+console.log(westCoast.name)    
+
+
+
 
 
 
